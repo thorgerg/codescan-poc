@@ -1,1 +1,1 @@
-# codescan-poc.github.io
+# barcode scanner proof of concept
